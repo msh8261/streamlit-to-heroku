@@ -1,0 +1,10 @@
+1. heroku login
+another git bash terminal
+1. git add .
+2. git commit -m "commit first"
+3. heroku git:remote -a YOUR-HEROKU-APP-NAME
+4. git push heroku master or main
+5. heroku logs --tail
+6. go to https://cron-job.org/en/members/jobs/
+edit-->> Edit-> enable cron-job --> save
+
